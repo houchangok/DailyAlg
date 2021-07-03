@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../../document/图灵四期/五：微服务专题/01-Spring Boot自动装配核心源码剖析-徐庶/springboot实例源码(1)/springboot_custome_starter/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/../../document/图灵四期/五：微服务专题/01-Spring Boot自动装配核心源码剖析-徐庶/springboot实例源码(1)/springboot_custome_starter/tulingxueyuan-spring-boot-starter/TestDemoSpringbootStarter/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_14" project-jdk-name="14" project-jdk-type="JavaSDK" />
+</project>

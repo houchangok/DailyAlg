@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BasicLearning.iml" filepath="$PROJECT_DIR$/BasicLearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../document/图灵四期/五：微服务专题/01-Spring Boot自动装配核心源码剖析-徐庶/springboot实例源码(1)/springboot_custome_starter/tulingxueyuan-spring-boot-starter/Starter/Starter.iml" filepath="$PROJECT_DIR$/../../document/图灵四期/五：微服务专题/01-Spring Boot自动装配核心源码剖析-徐庶/springboot实例源码(1)/springboot_custome_starter/tulingxueyuan-spring-boot-starter/Starter/Starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../document/图灵四期/五：微服务专题/01-Spring Boot自动装配核心源码剖析-徐庶/springboot实例源码(1)/springboot_custome_starter/springboot_custome_starter.iml" filepath="$PROJECT_DIR$/../../document/图灵四期/五：微服务专题/01-Spring Boot自动装配核心源码剖析-徐庶/springboot实例源码(1)/springboot_custome_starter/springboot_custome_starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../document/图灵四期/五：微服务专题/01-Spring Boot自动装配核心源码剖析-徐庶/springboot实例源码(1)/springboot_custome_starter/tulingxueyuan-spring-boot-autoconfigure/tulingxueyuan-spring-boot-autoconfigure.iml" filepath="$PROJECT_DIR$/../../document/图灵四期/五：微服务专题/01-Spring Boot自动装配核心源码剖析-徐庶/springboot实例源码(1)/springboot_custome_starter/tulingxueyuan-spring-boot-autoconfigure/tulingxueyuan-spring-boot-autoconfigure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../document/图灵四期/五：微服务专题/01-Spring Boot自动装配核心源码剖析-徐庶/springboot实例源码(1)/springboot_custome_starter/tulingxueyuan-spring-boot-starter/tulingxueyuan-spring-boot-starter.iml" filepath="$PROJECT_DIR$/../../document/图灵四期/五：微服务专题/01-Spring Boot自动装配核心源码剖析-徐庶/springboot实例源码(1)/springboot_custome_starter/tulingxueyuan-spring-boot-starter/tulingxueyuan-spring-boot-starter.iml" />
+    </modules>
+  </component>
+</project>
